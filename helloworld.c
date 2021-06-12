@@ -1,6 +1,6 @@
  //hello world program//
 
- /* This program prints
+ /* This C program prints
   Hello World on Console Screen*/
 
 #include<stdio.h>
